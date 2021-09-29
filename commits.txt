@@ -1,1 +1,12 @@
-aqui vamos a poner los commits de mi repositorio local
+a5fbe5c Merge branch 'main' of https://github.com/daniel99s/remoto
+81094d4 Create commits.txt
+196065c Initial commit
+afd16c4 bug arreglado
+f66413d modificacion de dos puntos
+4cdb742 se arreglo el conflicto
+8bccff1 Modificacion de main de jesus
+5f81898 modificacion de main
+9986d31 modificacion de parametros operations
+bb80120 modificacion  a operations
+8b05261 segundo commit
+f7a81c6 primer commit
